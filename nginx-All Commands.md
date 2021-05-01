@@ -43,3 +43,12 @@
     $ systemctl reload nginx ( to reload the nginx) 
     $ nginx -t (to verfy is the configuration file is okay)
     
+## write the same content of the file in git (01+Creating+a+Virtual+Host.conf) to /etc/nginx/nginx.conf
+
+    $ curl -I http://192.168.1.21/style.css  (to check if mime type is text/css)
+    $ systemctl reload nginx ( to reload the nginx) 
+    
+## Location Blocks 
+    
+    
+    
