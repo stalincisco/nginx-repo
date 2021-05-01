@@ -36,3 +36,10 @@
     $ systemctl stop nginx ( to start nginx) 
     $ systemctl enable nginx ( to enable nginx even after reboot of the server) 
     $ history
+
+## Configure Project demo
+
+    $ systemctl restart nginx ( to stop and restart nginx) 
+    $ systemctl reload nginx ( to reload the nginx) 
+    $ nginx -t (to verfy is the configuration file is okay)
+    
