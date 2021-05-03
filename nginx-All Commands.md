@@ -7,7 +7,7 @@
           $ history
           $ ps aux | grep nginx (to see if nginx process is running) 
           
-## Open Vscode in Superusermode
+### Open Vscode in Superusermode
     
           $sudo code --user-data-dir="~/.vscode-root"
 
