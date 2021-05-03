@@ -1,10 +1,15 @@
 # install Nginx
+
           $ ./configure
           $ apt-get install nginx
           $ kubectl get pod --all-namespaces
           $ kubectl get nodes
           $ history
           $ ps aux | grep nginx (to see if nginx process is running) 
+          
+## Open Vscode in Superusermode
+    
+          $sudo code --user-data-dir="~/.vscode-root"
 
 ## go to nginx.org and get the latest version of nginx and install 
 
